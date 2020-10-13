@@ -3,6 +3,10 @@
 <a href="/#/Hadoop/README"><button class="mybutton" style="background-color: #ea7070"><b><font color='#f4f0e6'>机器学习与大数据实战</font></b></button></a>
 
 
+## 机器学习比赛
+
+<a href="/#/ml/README"><button class="mybutton" style="background-color: #ea7070"><b><font color='#f4f0e6'>机器学习比赛</font></b></button></a>
+
 
 ## 物理
 
