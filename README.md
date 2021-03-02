@@ -1,11 +1,8 @@
 ## 机器学习与大数据实战
 
 <a href="/#/Hadoop/README"><button class="mybutton" style="background-color: #ea7070"><b><font color='#f4f0e6'>机器学习与大数据实战</font></b></button></a>
+<a href="/#/ml/0"><button class="mybutton" style="background-color: #ea7070"><b><font color='#f4f0e6'>机器学习EM算法</font></b></button></a>
 
-
-## 机器学习比赛
-
-<a href="/#/ml/README"><button class="mybutton" style="background-color: #ea7070"><b><font color='#f4f0e6'>机器学习比赛</font></b></button></a>
 
 
 ## 物理
@@ -16,8 +13,6 @@
 
 ## 维护说明
 
-- 更新下面链接的bug
-- <b><font color='#e41749'>更新机器学习专栏</font></b>
 - <b><font color='#e41749'>请点击对应标签进入</font></b>
 - <b><font color='#e41749'>于`2020.10.5`日更新大版本 `V1.0`</font></b>
 

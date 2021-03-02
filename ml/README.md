@@ -1,3 +1,3 @@
-## 机器学习比赛
+## 物理
 
-<a href="/#/ml/0"><button class="mybutton" style="background-color: #ea7070"><b><font color='#f4f0e6'>二手车价格预测(手写线性回归)</font></b></button></a>
+<a href="/#/ml/0"><button class="mybutton" style="background-color: #ea7070"><b><font color='#f4f0e6'>part -> 1 EM算法</font></b></button></a>
